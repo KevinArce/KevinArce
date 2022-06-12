@@ -23,8 +23,7 @@
 
 ### 📑 Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-🐍 [Django in 5min](https://medium.com/@kevarce/django-in-5min-22b473a9309e)
-
+- [Django in 5min](https://medium.com/@kevarce/django-in-5min-22b473a9309e?source=rss-bbe042ba67c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
