@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KevinArce](https://github.com/KevinArce)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/KevinArce)
 
-- 📝 I regularly write articles on [https://medium.com/@kevarce](https://medium.com/@kevarce)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kevarce)
 
 - 💬 Ask me about **PHP, Python, Flutter/Dart**
 
 - 📫 How to reach me **arcex@proton.me**
 
-- 📱 Download my App! German From Zero to Hero 🤠 [https://play.google.com/store/apps/details?id=com.ArceLab.German](https://play.google.com/store/apps/details?id=com.ArceLab.German)
+- 📱 Download my App! German From Zero to Hero 🤠 [German From Zero to Hero](https://play.google.com/store/apps/details?id=com.ArceLab.German)
 
 - ⚡ Fun fact **I like to play the Piano so... If you have one, let me know and smash the keys together! 🥳**
 
