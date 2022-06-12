@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Arce</h1>
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>, I'm Kevin Arce</h1>
 <h3 align="center">Computer Science Engineering Student💻📚 | Cybersecurity Enthusiast ☠👨‍💻 | Machine Learning Hobbyist 🤖 | Flutter/Dart Lover 📱 | Chess Player ♟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinarce&label=Profile%20views&color=0e75b6&style=flat" alt="kevinarce" /> </p>
