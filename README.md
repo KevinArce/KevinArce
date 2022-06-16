@@ -19,7 +19,7 @@
 
 - 📱 Check out my App [German From Zero to Hero](https://play.google.com/store/apps/details?id=com.ArceLab.German) 🤠 
 
-- ⚡ Fun fact **I like to play the Piano so... If you have one, let me know and smash the keys together! 🥳**
+- ⚡ Fun fact **I like to play Piano so... If you have one, let me know and smash the keys together! 🥳**
 
 ### 📑 Blogs Posts
 <!-- BLOG-POST-LIST:START -->
