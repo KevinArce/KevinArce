@@ -24,6 +24,7 @@
 ### 📑 Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [Django in 5min](https://medium.com/@kevarce/django-in-5min-22b473a9309e?source=rss-bbe042ba67c4------2)
+- [Scikit-Learn in 5min](https://medium.com/@kevarce/scikit-learn-in-5min-14da4d3ea276) 
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
