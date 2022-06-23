@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arcelabs" target="blank"><img src="https://img.shields.io/twitter/follow/arcelabs?logo=twitter&style=for-the-badge" alt="arcelabs" /></a> </p>
 
-- 🔭 I’m currently working on [LESSA using Django](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa)
+- 🔭 I’m currently working on [LESSA using Django and Machine Learning](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa)
 
 - 🌱 I’m currently learning **Django**
 
