@@ -34,6 +34,7 @@
 <a href="https://kaggle.com/kevarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevarce" height="30" width="40" /></a>
 <a href="https://instagram.com/arcelabsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arcelabsv" height="30" width="40" /></a>
 <a href="https://medium.com/@kevarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevarce" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0003-3453-6551" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="0000-0003-3453-6551" height="70" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
