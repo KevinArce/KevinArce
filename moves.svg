@@ -13,11 +13,11 @@ svg {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #ff4da6;  
+  fill: #00bfff;  
 }
 
 .wave:hover {
-  fill: #ff4da6;
+  fill: #00bfff;
 }
 
 #wave2 {
@@ -52,7 +52,7 @@ svg {
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
 <svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
   <a xlink:href="https://github.com/KevinArce" target="_top">
-  <text y="39" font-family="Times, serif" fill="blue" font-size="12px">
+  <text y="39" font-family="Times, serif" fill="white" font-size="12px">
     Kevin Arce
   </text>
   </a>
