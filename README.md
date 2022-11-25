@@ -49,7 +49,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinarce&" alt="kevinarce" /></p> 
 
+<a href="https://stardev.io/developers/KevinArce"><img alt="Check out KevinArce&apos;s profile on stardev.io" src="https://stardev.io/developers/KevinArce/badge/languages/global.svg" /></a>
+
 <a href="https://github.com/KevinArce">
   <img align="middle"  width="110%" src="https://raw.githubusercontent.com/KevinArce/KevinArce/main/moves.svg">
 </a>
-<a href="https://stardev.io/developers/KevinArce"><img alt="Check out KevinArce&apos;s profile on stardev.io" src="https://stardev.io/developers/KevinArce/badge/languages/global.svg" /></a>
