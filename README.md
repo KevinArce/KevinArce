@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LESSA using Django and Machine Learning](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React TS/JS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/KevinArce)
 
