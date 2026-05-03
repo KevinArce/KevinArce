@@ -1,56 +1,147 @@
-<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>, I'm Kevin Arce</h1>
-<h3 align="center">Computer Science Engineer💻👨‍🔬 | Backend Engineer ☠👨‍💻 | Machine Learning Apprentice 🤖 | Bun/Node Lover ✨ | Chess Player ♟</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinarce&label=Profile%20views&color=0e75b6&style=flat" alt="kevinarce" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kevin+Arce+%F0%9F%91%8B;TypeScript+%2B+AWS+%40+TELUS+Digital;Backend+%7C+IoT+%7C+AI+Tooling;Bun+%2F+Node+Lover+%E2%9C%A8+%7C+Chess+%E2%99%9F)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/arcelabs" target="blank"><img src="https://img.shields.io/twitter/follow/arcelabs?logo=twitter&style=for-the-badge" alt="arcelabs" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=kevinarce&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/KevinArce)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kevarce-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevarce)
+[![Medium](https://img.shields.io/badge/Medium-@kevarce-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kevarce)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-kevarce-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kevarce)
 
-- 🔭 I’m currently working on [LESSA using Django and Machine Learning](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa)
+</div>
 
-- 🌱 I’m currently learning **Actix/Rust**
+---
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/KevinArce)
+## 🧑‍💻 About Me
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@kevarce)
+```typescript
+const kevin = {
+  role:        "Mid TypeScript/AWS Engineer @ TELUS Digital",
+  location:    "El Salvador 🇸🇻",
+  currentWork: "SmartHome+ IoT Platform (TELUS Canada)",
+  education:   "Computer Science Engineer — UFG (in progress)",
+  interests:   ["Backend Engineering", "IoT Systems", "Agentic AI Workflows", "Embedded/Hardware"],
+  funFact:     "TEDx Speaker 🎤 | NASA Space Apps Participant 🚀 | Piano player 🎹",
+};
+```
 
-- 💬 Ask me about **TypeScript, Python, Flutter/Dart**
+- 🔭 Currently building **[TELUS SmartHome+](https://www.telus.com/en/smarthome-security)** — the most innovative IoT insignia project at TELUS Canada
+- 🌱 Side projects: **SupraCraft** (NeoForge Minecraft mod), **LexPulse** (Wear OS language learning app), **hosty** (Raspberry Pi 5 homelab)
+- 🤖 Agentic AI practitioner — I write structured user stories + technical specs before delegating to coding agents (Claude, GitHub Copilot, Google Jules)
+- 📝 Writing on [Medium](https://medium.com/@kevarce) about backend engineering and ML
+- 💬 Ask me about **TypeScript, NestJS, AWS CDK, Bun.js, Prompt Engineering**
+- 📫 Reach me at **[linkedin.com/in/kevarce](https://www.linkedin.com/in/kevarce/)**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kevarce/**
+---
 
-- 📱 Check out my App [German From Zero to Hero](https://play.google.com/store/apps/details?id=com.ArceLab.German) 🤠 
+## 🚀 Featured Projects
 
-- ⚡ Fun fact **I like to play Piano so... If you have one, let me know and we'll smash the keys together! 🥳**
+| Project | Description | Stack |
+|---|---|---|
+| [**Botditor**](https://github.com/KevinArce/botditor) | AI-powered Reddit moderation bot with LLM integration, toxic comment detection, spam filtering, and a YAML-driven rule engine | TypeScript · Devvit · OpenAI |
+| [**Envinator**](https://github.com/KevinArce/envinator) | CLI tool that statically analyzes codebases to audit `process.env` usages against `.env` files — eliminates runtime env errors | TypeScript · Node.js |
+| [**bun-cli**](https://github.com/KevinArce/bun-cli) | Rust-based CLI for scaffolding new Bun.js project structures with one command | Rust · Bun.js |
+| [**LESSA Dataset**](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa) | One of the most downloaded El Salvador datasets — El Salvador Sign Language image dataset for ML research | Python · Computer Vision |
+| [**Linux-Arctis-Manager**](https://github.com/nickolay-klyuev/linux-arctis-manager) *(Contributor)* | Merged PR fixing hardware pairing for SteelSeries headsets on Linux | Linux · Open Source |
 
-### 📑 Blogs Posts
+---
+
+## 🛠️ Tech Stack
+
+### Core Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Backend & Runtimes
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### AI & Agentic Workflows
+![Claude](https://img.shields.io/badge/Claude-D4A853?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Google Jules](https://img.shields.io/badge/Google_Jules-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### IoT & Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinarce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinarce&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kevinarce&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 🎤 **TEDx Speaker** — Delivered a talk on science fiction writing (Dec 2016)
+- 🚀 **NASA Space Apps Challenge** participant (Oct 2021)
+- 🧠 **Stanford ML Course** — Supervised Machine Learning: Regression & Classification
+- 📦 **96+ public repositories** spanning backend, ML, mobile, and hardware
+- 🗂️ Created the [**LESSA dataset**](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa) — one of the most popular open datasets from El Salvador
+- 🔬 Research contributor — Centro de Modelaje Matemático, UFG
+
+---
+
+## 📑 Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Scikit-Learn in 5min](https://medium.com/@kevarce/scikit-learn-in-5min-14da4d3ea276?source=rss-bbe042ba67c4------2)
-- [Django in 5min](https://medium.com/@kevarce/django-in-5min-22b473a9309e?source=rss-bbe042ba67c4------2)
+- [Scikit-Learn in 5min](https://medium.com/@kevarce/scikit-learn-in-5min-14da4d3ea276)
+- [Django in 5min](https://medium.com/@kevarce/django-in-5min-22b473a9309e)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arcelabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arcelabs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kevarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevarce" height="30" width="40" /></a>
-<a href="https://kaggle.com/kevarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevarce" height="30" width="40" /></a>
-<a href="https://instagram.com/arcelabsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arcelabsv" height="30" width="40" /></a>
-<a href="https://medium.com/@kevarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevarce" height="30" width="40" /></a>
-<a href="https://orcid.org/0000-0003-3453-6551" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="0000-0003-3453-6551" height="70" width="70" /></a>
-</p>
+> 💡 *More posts coming — follow me on [Medium](https://medium.com/@kevarce)*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="70" height="70"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kevarce"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kevarce" /></a></p><br>
+## 🐍 Contribution Graph
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinarce&show_icons=true&locale=en&layout=compact" alt="kevinarce" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinarce&show_icons=true&locale=en" alt="kevinarce" /></p>
+![Snake animation](https://raw.githubusercontent.com/KevinArce/KevinArce/main/moves.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinarce&" alt="kevinarce" /></p> 
+</div>
 
-<a href="https://stardev.io/developers/KevinArce"><img alt="Check out KevinArce&apos;s profile on stardev.io" src="https://stardev.io/developers/KevinArce/badge/languages/global.svg" /></a>
+---
 
-<a href="https://github.com/KevinArce">
-  <img align="middle"  width="110%" src="https://raw.githubusercontent.com/KevinArce/KevinArce/main/moves.svg">
-</a>
+<div align="center">
+
+*"The best backend is the one that disappears — fast, invisible, and always there."*
+
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0003--3453--6551-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3453-6551)
+[![Kaggle](https://img.shields.io/badge/Kaggle-kevarce-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/kevarce)
+[![stardev.io](https://img.shields.io/badge/stardev.io-KevinArce-000000?style=flat-square)](https://stardev.io/developers/KevinArce)
+
+</div>
