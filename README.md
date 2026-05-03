@@ -37,10 +37,12 @@ const kevin = {
 
 | Project | Description | Stack |
 |---|---|---|
+| [**BreakPoint**](https://github.com/KevinArce/BreakPoint) | GitHub App that enforces API contract integrity on PRs — generates & diffs OpenAPI schemas, validates semver bumps, and reports via Check Runs & PR comments | TypeScript · Probot · GitHub Actions |
 | [**Botditor**](https://github.com/KevinArce/botditor) | AI-powered Reddit moderation bot with LLM integration, toxic comment detection, spam filtering, and a YAML-driven rule engine | TypeScript · Devvit · OpenAI |
 | [**Envinator**](https://github.com/KevinArce/envinator) | CLI tool that statically analyzes codebases to audit `process.env` usages against `.env` files — eliminates runtime env errors | TypeScript · Node.js |
 | [**bun-cli**](https://github.com/KevinArce/bun-cli) | Rust-based CLI for scaffolding new Bun.js project structures with one command | Rust · Bun.js |
 | [**LESSA Dataset**](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa) | One of the most downloaded El Salvador datasets — El Salvador Sign Language image dataset for ML research | Python · Computer Vision |
+| [**GermanFromZeroToHero**](https://github.com/KevinArce/GermanFromZeroToHero) | 📱 One of my first commercially sold mobile apps (~2020) — German language learning app with AI-powered object recognition, global chat, grammar lessons, and an integrated translator | Dart · Flutter · Firebase |
 | [**Linux-Arctis-Manager**](https://github.com/nickolay-klyuev/linux-arctis-manager) *(Contributor)* | Merged PR fixing hardware pairing for SteelSeries headsets on Linux | Linux · Open Source |
 
 ---
@@ -94,10 +96,6 @@ const kevin = {
 
 <div align="center">
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinarce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinarce&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kevinarce&theme=tokyonight&hide_border=true)
 
 </div>
@@ -126,11 +124,17 @@ const kevin = {
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/KevinArce/KevinArce/main/moves.svg)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinarce&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinarce&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinarce&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinarce&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kevinarce&theme=tokyonight&utcOffset=-6)
 
 </div>
 
