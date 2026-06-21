@@ -18,7 +18,7 @@ const kevin = {
   role:        "Mid TypeScript/AWS Engineer @ TELUS Digital",
   location:    "El Salvador 🇸🇻",
   currentWork: "SmartHome+ IoT Platform (TELUS Canada)",
-  education:   "Computer Science Engineer — UFG (in progress)",
+  education:   "Computer Science Engineer 💻 — UFG",
   interests:   ["Backend Engineering", "IoT Systems", "Agentic AI Workflows", "Embedded/Hardware"],
   funFact:     "TEDx Speaker 🎤 | NASA Space Apps Participant 🚀 | Piano player 🎹",
 };
