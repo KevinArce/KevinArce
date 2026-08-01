@@ -15,7 +15,7 @@
 
 ```typescript
 const kevin = {
-  role:        "Mid TypeScript/AWS Engineer @ TELUS Digital",
+  role:        "AI Native Engineer @ TELUS Digital",
   location:    "El Salvador 🇸🇻",
   currentWork: "SmartHome+ IoT Platform (TELUS Canada)",
   education:   "Computer Science Engineer 💻 — UFG",
