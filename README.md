@@ -1,151 +1,113 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kevin+Arce+%F0%9F%91%8B;TypeScript+%2B+AWS+%40+TELUS+Digital;Backend+%7C+IoT+%7C+AI+Tooling;Bun+%2F+Node+Lover+%E2%9C%A8+%7C+Chess+%E2%99%9F)](https://git.io/typing-svg)
+# Kevin Arce
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kevinarce&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/KevinArce)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kevarce-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevarce)
-[![Medium](https://img.shields.io/badge/Medium-@kevarce-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kevarce)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-kevarce-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kevarce)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=CBA6F7&center=true&vCenter=true&width=680&lines=AI+Native+Engineer+%40+TELUS+Digital;TypeScript+by+trade%2C+Rust+when+I'm+annoyed;MSc+Quantum+Computing+in+progress+%E2%9A%9B;My+code+works+and+fails+simultaneously)](https://arcelabs.com)
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```typescript
-const kevin = {
-  role:        "AI Native Engineer @ TELUS Digital",
-  location:    "El Salvador 🇸🇻",
-  currentWork: "SmartHome+ IoT Platform (TELUS Canada)",
-  education:   "Computer Science Engineer 💻 — UFG",
-  interests:   ["Backend Engineering", "IoT Systems", "Agentic AI Workflows", "Embedded/Hardware"],
-  funFact:     "TEDx Speaker 🎤 | NASA Space Apps Participant 🚀 | Piano player 🎹",
-};
-```
-
-- 🔭 Currently building **[TELUS SmartHome+](https://www.telus.com/en/smarthome-security)** — the most innovative IoT insignia project at TELUS Canada
-- 🌱 Side projects: **SupraCraft** (NeoForge Minecraft mod), **LexPulse** (Wear OS language learning app), **hosty** (Raspberry Pi 5 homelab)
-- 🤖 Agentic AI practitioner — I write structured user stories + technical specs before delegating to coding agents (Claude, GitHub Copilot, Google Jules)
-- 📝 Writing on [Medium](https://medium.com/@kevarce) about backend engineering and ML
-- 💬 Ask me about **TypeScript, NestJS, AWS CDK, Bun.js, Prompt Engineering**
-- 📫 Reach me at **[linkedin.com/in/kevarce](https://www.linkedin.com/in/kevarce/)**
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**BreakPoint**](https://github.com/KevinArce/BreakPoint) | GitHub App that enforces API contract integrity on PRs — generates & diffs OpenAPI schemas, validates semver bumps, and reports via Check Runs & PR comments | TypeScript · Probot · GitHub Actions |
-| [**Botditor**](https://github.com/KevinArce/botditor) | AI-powered Reddit moderation bot with LLM integration, toxic comment detection, spam filtering, and a YAML-driven rule engine | TypeScript · Devvit · OpenAI |
-| [**Envinator**](https://github.com/KevinArce/envinator) | CLI tool that statically analyzes codebases to audit `process.env` usages against `.env` files — eliminates runtime env errors | TypeScript · Node.js |
-| [**bun-cli**](https://github.com/KevinArce/bun-cli) | Rust-based CLI for scaffolding new Bun.js project structures with one command | Rust · Bun.js |
-| [**LESSA Dataset**](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa) | One of the most downloaded El Salvador datasets — El Salvador Sign Language image dataset for ML research | Python · Computer Vision |
-| [**GermanFromZeroToHero**](https://github.com/KevinArce/GermanFromZeroToHero) | 📱 One of my first commercially sold mobile apps (~2020) — German language learning app with AI-powered object recognition, global chat, grammar lessons, and an integrated translator | Dart · Flutter · Firebase |
-| [**Linux-Arctis-Manager**](https://github.com/nickolay-klyuev/linux-arctis-manager) *(Contributor)* | Merged PR fixing hardware pairing for SteelSeries headsets on Linux | Linux · Open Source |
-
----
-
-## 🛠️ Tech Stack
-
-### Core Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### Backend & Runtimes
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### AI & Agentic Workflows
-![Claude](https://img.shields.io/badge/Claude-D4A853?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Google Jules](https://img.shields.io/badge/Google_Jules-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-### IoT & Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=kevinarce&theme=tokyonight&hide_border=true)
+[![Website](https://img.shields.io/badge/arcelabs.com-1E1E2E?style=for-the-badge&logo=hexo&logoColor=CBA6F7)](https://arcelabs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=89B4FA)](https://linkedin.com/in/kevarce)
+[![Kaggle](https://img.shields.io/badge/Kaggle-1E1E2E?style=for-the-badge&logo=kaggle&logoColor=94E2D5)](https://kaggle.com/kevarce)
+[![Medium](https://img.shields.io/badge/Medium-1E1E2E?style=for-the-badge&logo=medium&logoColor=FAB387)](https://medium.com/@kevarce)
 
 </div>
 
----
-
-## 🏆 Highlights
-
-- 🎤 **TEDx Speaker** — Delivered a talk on science fiction writing (Dec 2016)
-- 🚀 **NASA Space Apps Challenge** participant (Oct 2021)
-- 🧠 **Stanford ML Course** — Supervised Machine Learning: Regression & Classification
-- 📦 **96+ public repositories** spanning backend, ML, mobile, and hardware
-- 🗂️ Created the [**LESSA dataset**](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa) — one of the most popular open datasets from El Salvador
-- 🔬 Research contributor — Centro de Modelaje Matemático, UFG
+> **I build cloud backends that have to stay up, and small sharp tools for the things that annoy me on the way there.**
+> Currently studying quantum computing, which means my code now works *and* fails simultaneously.
 
 ---
 
-## 📑 Blog Posts
+## `whoami`
 
-<!-- BLOG-POST-LIST:START -->
-- [Scikit-Learn in 5min](https://medium.com/@kevarce/scikit-learn-in-5min-14da4d3ea276)
-- [Django in 5min](https://medium.com/@kevarce/django-in-5min-22b473a9309e)
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 *More posts coming — follow me on [Medium](https://medium.com/@kevarce)*
+|    |    |
+| :--: | :-- |
+| ☁️ | **AI Native Engineer** at **TELUS Digital** — backend, cloud and LLM work on **SmartHome+**, their flagship IoT platform |
+| ⚛️ | **MSc in Quantum Computing**, Universidad de La Rioja · *in progress* |
+| 🎓 | **Computer Science Engineer**, Universidad Francisco Gavidia — by way of Mathematics and Physics |
+| 📦 | Things I've written live on **npm**, **crates.io**, and the **Reddit app directory** |
+| 🇸🇻 | El Salvador · `UTC−6` |
 
 ---
 
-## 📈 Contribution Graph
+## What I actually build
 
-<div align="center">
+Not a skills dump — this is the map of where each thing gets used.
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinarce&theme=tokyonight)
+| Layer | What I do there | Working set |
+| :-- | :-- | :-- |
+| ☁️&nbsp;**Cloud&nbsp;backends** | Build *and operate* the services behind a production IoT platform. Infrastructure as code, test automation for regression and progression, and an on-call rotation that occasionally disagrees with my sleep schedule. | `TypeScript` `AWS CDK` `Lambda` `DynamoDB` `NestJS` |
+| 🤖&nbsp;**LLM&nbsp;plumbing** | Wiring models into products real people actually use — moderation bots, assistants, typed workflow graphs. And working agent-first day to day: user stories and a technical spec exist *before* anything gets delegated. | `Gemini` `OpenAI` `Llama 2` `Workers AI` `Copilot` `Jules` |
+| 🧰&nbsp;**Developer&nbsp;tooling** | Small, opinionated CLIs and bots that each delete exactly one recurring annoyance — then actually get published instead of rotting in a folder. | `TypeScript` `Rust` `ts-morph` `Probot` |
+| 🐍&nbsp;**Python&nbsp;&&nbsp;ML** | scikit-learn, dataset building, and the occasional cryptography rabbit hole. Yes, I implemented Diffie–Hellman by hand. No, nobody asked me to. | `Python` `scikit-learn` `Jupyter` `FastAPI` |
+| ⚛️&nbsp;**Quantum** | Where the Maths and Physics background stops being small talk and starts being homework. | `Linear algebra` `Qubits` `Coffee` |
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinarce&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinarce&theme=tokyonight)
+<details>
+<summary><b>🧳 The full toolbox</b> — for the curious and the keyword-searching</summary>
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinarce&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kevinarce&theme=tokyonight&utcOffset=-6)
+<br>
 
-</div>
+**Languages** — TypeScript · JavaScript · Python · Rust · Dart · Shell
+
+**Runtimes & frameworks** — Node.js (Express, NestJS) · Bun (Elysia) · FastAPI · Flask · Flutter
+
+**Cloud & infra** — AWS (CDK, Lambda, EC2, S3, SES, CloudWatch) · Cloudflare Workers · Docker · Kubernetes · GitHub Actions · Turborepo
+
+**Data** — PostgreSQL · MySQL · MariaDB · MongoDB · Redis · DynamoDB · Firebase
+
+**Observability & testing** — Sentry · Prometheus · PagerDuty · Jest · Vitest
+
+**Ways of working** — Agile / Scrum / Kanban · trunk-adjacent PR flow · specs before agents
+
+</details>
+
+---
+
+## Things I built because they annoyed me
+
+| Project | What it is, and why it's worth a look | Built with |
+| :-- | :-- | :-- |
+| **[BreakPoint](https://github.com/KevinArce/BreakPoint)** | A GitHub App that fails your PR when you quietly break your own API. It generates OpenAPI schemas for the PR *and* the base branch, diffs them, and checks that your version bump matches the size of the damage. Split into two layers on purpose: Probot owns GitHub, Actions owns compute. | `TypeScript` `Probot` `OpenAPI` `Actions` |
+| **[Botditor](https://developers.reddit.com/apps/botditor)** | A Reddit moderation bot that's actually live in Reddit's app directory. It ingests comments through the `CommentSubmit` trigger and runs them past an LLM — because, as its own tagline asks, was that comment written by a human or a slightly sentient toaster? | `TypeScript` `Devvit` `Gemini` `OpenAI` |
+| **[Envinator](https://www.npmjs.com/package/envinator-cli)** | *"Come with me if you want to deploy."* `npx envinator-cli` walks your AST with ts-morph, finds every `process.env` you forgot to document, and interrogates you until your `.env` is complete. Real parsing, not regex — it won't be fooled by a comment. Masks secrets in its own logs. | `TypeScript` `Node.js` `ts-morph` |
+| **[bun-cli](https://crates.io/crates/bun-cli)** | A Bun project scaffolder written in Rust — my most-starred repo, later torn down and rebuilt around a `Result<T, E>` core with a modular, cross-platform layout. Shipped to crates.io, where it's been pulled **5k+ times**. | `Rust` `Bun` |
+| **[ghostforge](https://github.com/KevinArce/ghostforge)** | My entire macOS terminal, reduced to one `install.sh`. Ghostty + Starship + zoxide/fzf/eza/bat/yazi/lazygit, with Catppuccin that follows the system between light and true-black OLED dark. Backs up your `.zshrc` before it touches a thing. | `Shell` `Zsh` `Ghostty` |
+
+### Also on the record
+
+- 🤟 **[LESSA](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa)** — about five years ago I built El Salvador's first Salvadoran Sign Language image dataset, because one didn't exist. It's since become one of the most downloaded open datasets to come out of the country.
+- 🎧 **[Merged into Linux-Arctis-Manager](https://github.com/elegos/Linux-Arctis-Manager/pull/7)** — chased a headset pairing bug down to the USB layer of an open-source SteelSeries driver and fixed it there: device reset on initialization, re-claiming interfaces after kernel detach.
+- 📱 **[GermanFromZeroToHero](https://github.com/KevinArce/GermanFromZeroToHero)** — a Flutter German-learning app from the Firebase era, and one of the first things I ever sold. Still the reason I know exactly what a `StreamBuilder` does.
+
+---
+
+## Currently in superposition
+
+- ⚛️ Working through David J. Griffiths' **Introduction to Quantum Mechanics**, one chapter at a time, for the MSc.
+- 🧪 **[ArceLabs](https://arcelabs.com)** — my own platform sandbox: NestJS services folded into a Turborepo/Bun monorepo, Kubernetes underneath, Prometheus and PagerDuty on top. Essentially me handing myself the on-call problems I don't get to redesign at work.
+- 🕸️ **Agent workflow graphs** — modelling LLM steps as typed nodes in a graph instead of one heroic mega-prompt.
+- 🖥️ Ricing my terminal well past the point of reasonable return.
+
+---
+
+## Beyond the terminal
+
+- 🎤 **TEDx speaker** at UTEC, El Salvador — on writing science fiction and fantasy. Not one slide about code.
+- 🚀 **NASA Space Apps Challenge** participant, 2021.
+- 🔬 Ad-honorem **researcher** at UFG's Centro de Modelaje Matemático.
+- ♟️ Chess, mostly as a structured way to lose to strangers on the internet.
 
 ---
 
 <div align="center">
 
-*"The best backend is the one that disappears — fast, invisible, and always there."*
+<img src="https://streak-stats.demolab.com/?user=KevinArce&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0003--3453--6551-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3453-6551)
-[![Kaggle](https://img.shields.io/badge/Kaggle-kevarce-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/kevarce)
-[![stardev.io](https://img.shields.io/badge/stardev.io-KevinArce-000000?style=flat-square)](https://stardev.io/developers/KevinArce)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinArce&theme=tokyonight" alt="Profile details" />
+
+<br><br>
+
+**If you read this far, you're the kind of person who reads READMEs.**
+Something tells me we'd get along — [say hi](https://linkedin.com/in/kevarce).
+
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0003--3453--6551-1E1E2E?style=flat-square&logo=orcid&logoColor=A6E3A1)](https://orcid.org/0000-0003-3453-6551)
 
 </div>
