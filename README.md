@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=89B4FA)](https://linkedin.com/in/kevarce)
 [![Kaggle](https://img.shields.io/badge/Kaggle-1E1E2E?style=for-the-badge&logo=kaggle&logoColor=94E2D5)](https://kaggle.com/kevarce)
 [![Medium](https://img.shields.io/badge/Medium-1E1E2E?style=for-the-badge&logo=medium&logoColor=FAB387)](https://medium.com/@kevarce)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-1E1E2E?style=for-the-badge&logo=buymeacoffee&logoColor=F9E2AF)](https://buymeacoffee.com/kevarce)
 
 </div>
 
