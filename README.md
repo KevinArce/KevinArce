@@ -13,7 +13,7 @@
 </div>
 
 > **I build cloud backends that have to stay up, and small sharp tools for the things that annoy me on the way there.**
-> Currently studying quantum computing, which means my code now works *and* fails simultaneously. Other active side quest: [**ExoNotes**](https://github.com/KevinArce/ExoNotes) — investigating whether astronomers' free-text notes carry hidden disposition signal beyond numeric catalogues.
+> Creator and maintainer of [**Quantum Meowchanics**](https://www.quantum-meowchanics.com/). Currently studying quantum computing (which means my code now works *and* fails simultaneously), alongside an astrophysics side quest at [**ExoNotes**](https://github.com/KevinArce/ExoNotes).
 
 ---
 
@@ -22,7 +22,7 @@
 |    |    |
 | :--: | :-- |
 | ☁️ | **AI Native Engineer** at **TELUS Digital** — backend, cloud and LLM work on **SmartHome+**, their flagship IoT platform |
-| ⚛️ | **MSc in Quantum Computing**, Universidad de La Rioja · *in progress* |
+| ⚛️ | **MSc in Quantum Computing**, Universidad de La Rioja · *in progress* — creator & maintainer of [**Quantum Meowchanics**](https://www.quantum-meowchanics.com/) |
 | 🎓 | **Computer Science Engineer**, Universidad Francisco Gavidia — by way of Mathematics and Physics |
 | 📦 | Things I've written live on **npm**, **crates.io**, and the **Reddit app directory** |
 | 🇸🇻 | El Salvador · `UTC−6` |
@@ -39,7 +39,7 @@ Not a skills dump — this is the map of where each thing gets used.
 | 🤖&nbsp;**LLM&nbsp;plumbing** | Wiring models into products real people actually use — moderation bots, assistants, typed workflow graphs. And working agent-first day to day: user stories and a technical spec exist *before* anything gets delegated. | `Gemini` `OpenAI` `Llama 2` `Workers AI` `Copilot` `Jules` |
 | 🧰&nbsp;**Developer&nbsp;tooling** | Small, opinionated CLIs and bots that each delete exactly one recurring annoyance — then actually get published instead of rotting in a folder. | `TypeScript` `Rust` `ts-morph` `Probot` |
 | 🐍&nbsp;**Python&nbsp;&&nbsp;ML** | scikit-learn, dataset building, and the occasional cryptography rabbit hole. Yes, I implemented Diffie–Hellman by hand. No, nobody asked me to. | `Python` `scikit-learn` `Jupyter` `FastAPI` |
-| ⚛️&nbsp;**Quantum** | Where the Maths and Physics background stops being small talk and starts being homework. | `Linear algebra` `Qubits` `Coffee` |
+| ⚛️&nbsp;**Quantum** | Creator & maintainer of [**Quantum Meowchanics**](https://www.quantum-meowchanics.com/) (first principles to AWS Braket). Where the Maths and Physics background stops being small talk and starts being homework. | `Braket SDK` `Qubits` `Linear algebra` |
 
 <details>
 <summary><b>🧳 The full toolbox</b> — for the curious and the keyword-searching</summary>
@@ -74,6 +74,7 @@ Not a skills dump — this is the map of where each thing gets used.
 
 ### Also on the record
 
+- 😺⚛️ **[Quantum Meowchanics](https://www.quantum-meowchanics.com/)** — creator and maintainer of an offline-first e-learning platform and curriculum spanning ~127 lessons from quantum mechanics postulates to AWS Braket. Built as a zoneless, prerendered Angular PWA with KaTeX, Python, and Leitner spaced-repetition flashcards.
 - 🤟 **[LESSA](https://www.kaggle.com/datasets/kevarce/lenguaje-de-seas-de-el-salvador-lessa)** — about five years ago I built El Salvador's first Salvadoran Sign Language image dataset, because one didn't exist. It's since become one of the most downloaded open datasets to come out of the country.
 - 🎧 **[Merged into Linux-Arctis-Manager](https://github.com/elegos/Linux-Arctis-Manager/pull/7)** — chased a headset pairing bug down to the USB layer of an open-source SteelSeries driver and fixed it there: device reset on initialization, re-claiming interfaces after kernel detach.
 - 📱 **[GermanFromZeroToHero](https://github.com/KevinArce/GermanFromZeroToHero)** — a Flutter German-learning app from the Firebase era, and one of the first things I ever sold. Still the reason I know exactly what a `StreamBuilder` does.
