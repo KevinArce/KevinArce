@@ -13,7 +13,7 @@
 </div>
 
 > **I build cloud backends that have to stay up, and small sharp tools for the things that annoy me on the way there.**
-> Currently studying quantum computing, which means my code now works *and* fails simultaneously.
+> Currently studying quantum computing, which means my code now works *and* fails simultaneously. Other active side quest: [**ExoNotes**](https://github.com/KevinArce/ExoNotes) — investigating whether astronomers' free-text notes carry hidden disposition signal beyond numeric catalogues.
 
 ---
 
@@ -83,6 +83,7 @@ Not a skills dump — this is the map of where each thing gets used.
 ## Currently in superposition
 
 - ⚛️ Working through David J. Griffiths' **Introduction to Quantum Mechanics**, one chapter at a time, for the MSc.
+- 🔭 **[ExoNotes](https://github.com/KevinArce/ExoNotes)** — an astrophysics side quest: a pre-registered study on TESS Objects of Interest (ExoFOP), testing if astronomers' free-text comments carry disposition signal beyond numeric catalogues (or if half the corpus is just leaking labels in prose).
 - 🧪 **[ArceLabs](https://arcelabs.com)** — my own platform sandbox: NestJS services folded into a Turborepo/Bun monorepo, Kubernetes underneath, Prometheus and PagerDuty on top. Essentially me handing myself the on-call problems I don't get to redesign at work.
 - 🕸️ **Agent workflow graphs** — modelling LLM steps as typed nodes in a graph instead of one heroic mega-prompt.
 - 🖥️ Ricing my terminal well past the point of reasonable return.
